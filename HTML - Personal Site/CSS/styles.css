@@ -1,0 +1,22 @@
+body {
+    background-color: #CDFCF6;
+}
+
+hr {
+    border: 5px dotted gray;
+    border-style: none none dotted;
+    height: 2px;
+    width: 5%;
+}
+
+h1 {
+    color: #628E90;
+}
+
+h3 {
+    color: #98A8F8;
+}
+
+thead {
+    color:#628E90;
+}
